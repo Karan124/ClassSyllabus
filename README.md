@@ -1,2 +1,6 @@
-## This is temp branch
+## Class Syllabus Project
+
+** Project for Git Course **
+
+* This is a simple syllabus project *
 
